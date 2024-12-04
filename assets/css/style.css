@@ -63,7 +63,7 @@ p {
 .informacao {
   background: #e4d1bc;
   margin: 1rem;
-  padding: 0 2rem;
+  padding: 2rem;
   width: 30vw;
   min-height: 100vh;
   display: flex;
@@ -73,7 +73,7 @@ p {
 }
 .biblioteca {
   margin: 1rem;
-  padding: 0 2rem;
+  padding: 2rem;
   border-radius: 1rem;
   width: 70vw;
   min-height: 100%;
@@ -83,6 +83,12 @@ p {
   display: flex;
   justify-content: space-around;
   align-items: center;
+}
+.estante__livros {
+  width: 50%;
+}
+.youtube {
+  width: 50%;
 }
 .footer__texto {
   background-color: #6ec8f1;
