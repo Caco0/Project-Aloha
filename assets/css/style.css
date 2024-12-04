@@ -84,11 +84,10 @@ p {
   justify-content: space-around;
   align-items: center;
 }
-.estante__livros {
-  width: 50%;
-}
+
 .youtube {
   width: 50%;
+  margin: 1rem;
 }
 .footer__texto {
   background-color: #6ec8f1;
